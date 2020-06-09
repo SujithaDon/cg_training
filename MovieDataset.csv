@@ -1,0 +1,6 @@
+MovieId,MovieName,Year,Associated,Association
+M-1,Oh Baby,2004,C-4,Actor
+M-2,Avengers,2001,C-1,Actress
+M-3,Star,2008,C-2,Actor
+M-4,The Rage,2010,C-3,Producer
+M-5,Twinkle,2006,C-5,Director
